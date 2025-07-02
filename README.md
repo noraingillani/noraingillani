@@ -55,7 +55,7 @@
 | 🍽 Lahore Food Street Guide | Interactive and aesthetic web app about local food scene | HTML, CSS, JS |
 | 🧾 Budget Tracker | A Jupyter Notebook for tracking & analyzing finances | Python, ipywidgets |
 
-> 🚀 More on my [Repositories](https://github.com/YourGitHubUsername?tab=repositories)
+🚀 More on my [Repositories](https://github.com/noraingillani?tab=repositories)
 
 ---
 
