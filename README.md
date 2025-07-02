@@ -75,15 +75,14 @@
 
 ---
 
-### 🏙 My GitHub Skyline
+---
+
+### 📊 Contribution Heatmap
 
 <p align="center">
-  <a href="https://skyline.github.com/noraingillani/2024">
-    <img src="https://github.com/noraingillani.png" width="120" style="border-radius: 50%;" />
-    <br />
-    <img src="https://img.shields.io/badge/Check+out+my+GitHub+Skyline-3D-blueviolet?style=for-the-badge" />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=noraingillani&theme=github-compact&area=true&hide_border=true&color=FACC15" />
 </p>
+
 
 
 
