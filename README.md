@@ -71,9 +71,10 @@
 ### 🎧 Vibing Right Now
 
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=noraingillani&cover_image=true&theme=novatorem&bar_color=FACC15&bar_color_cover=true" />
+  <img src="https://i.imgur.com/mP7D4el.gif" width="300px" alt="Chill music vibe" />
+  <br/>
+  <em>Lo-fi beats • Coding vibes • Late night energy</em>
 </p>
-
 
 ---
 
