@@ -1,9 +1,7 @@
 <!-- Profile README for Norain Gillani -->
 
 <h1 align="center">Hey there 👋 I'm Norain</h1>
-<p align="center">
-  💻 Software Developer | 📊 Finance & Data Enthusiast | 🎯 Always Building
-</p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F97316&center=true&vCenter=true&multiline=true&lines=Learning.+Building.+Evolving.;" alt="Typing SVG" />  
