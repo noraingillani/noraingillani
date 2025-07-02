@@ -34,18 +34,19 @@
 ### 🔥 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=radical&fire=DD2727&ring=F97316&currStreakLabel=FACC15"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=noraingillani&theme=radical&fire=DD2727&ring=F97316&currStreakLabel=FACC15"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=noraingillani&show_icons=true&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noraingillani&layout=compact&theme=radical" />
 </p>
 
 ---
+
 
 ### 🪄 Featured Projects
 
