@@ -76,7 +76,7 @@
 ### 🎧 Vibing Right Now
 
 <p align="center">
-  <img src="https://noraingillani.vercel.app/api/view?uid=noraingillani&cover_image=true&theme=novatorem&bar_color=FACC15&bar_color_cover=true" />
+  <img src="https://noraingillani.vercel.app/api/view?cover_image=true&theme=novatorem&bar_color=FACC15&bar_color_cover=true" />
 </p>
 
 
