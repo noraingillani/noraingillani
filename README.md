@@ -9,6 +9,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=F97316&center=true&vCenter=true&multiline=true&lines=Crafting+code+with+purpose.;Learning.+Building.+Evolving.;Welcome+to+my+zone+%F0%9F%91%BB" alt="Typing SVG" />
 </p>
 
+
+
 ---
 
 ### ⚡ About Me
