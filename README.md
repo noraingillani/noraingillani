@@ -68,11 +68,12 @@
 
 ---
 
-### 🎵 Now Playing
+### 🎧 Vibing Right Now
 
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=your-spotify-uid&cover_image=true&theme=novatorem&bar_color=FACC15&bar_color_cover=true" />
+  <img src="https://readme-spotify-embed.vercel.app/api/spotify?background_color=000000&border_color=F97316&border_radius=10px" alt="Currently vibing on Spotify" />
 </p>
+
 
 ---
 
