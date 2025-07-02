@@ -73,10 +73,16 @@
 
 ---
 
-### 🎧 Vibing Right Now
+---
+
+### 🏙 My GitHub Skyline
 
 <p align="center">
-  <img src="https://noraingillani.vercel.app/api/view?cover_image=true&theme=novatorem&bar_color=FACC15&bar_color_cover=true" />
+  <a href="https://skyline.github.com/noraingillani/2024">
+    <img src="https://github.com/noraingillani.png" width="120" style="border-radius: 50%;" />
+    <br />
+    <img src="https://img.shields.io/badge/Check+out+my+GitHub+Skyline-3D-blueviolet?style=for-the-badge" />
+  </a>
 </p>
 
 
